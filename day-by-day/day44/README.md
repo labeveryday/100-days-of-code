@@ -69,24 +69,3 @@ What are you excited for next? Invite comments or feedback if posting on Medium.
 ---
 
 **Thanks for reading – catch you on Day 44!**  
-✌️ – Du’An
-```
-
----
-
-### 👇 Bonus: How You Can Use It
-
-- Save it as `blog-template.md` in your repo
-- Duplicate and rename as `day-01.md`, `day-02.md`, etc.
-- Use a GitHub Action or Notion calendar to remind yourself to fill it in daily
-- Sync it with your blog (`duanlightfoot.com`) and Medium posts
-
----
-
-Would you like me to:
-
-- Turn this into a **Notion template or HTML blog layout**?
-- Create a **GitHub Action** that sets up a new post daily from this?
-- Build a **Netlify-ready blog** with auto-publishing support?
-
-Happy to help with any of that!
